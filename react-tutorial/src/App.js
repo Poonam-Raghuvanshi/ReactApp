@@ -7,8 +7,8 @@ import Third from './Components/Third';
 function App() {
   return (
     <div className="App">
-      <First/>
-      <Second/>
+      <First name="React"/>
+      <Second name="Angular"/>
       <Third/>
     </div>
   );
